@@ -7,7 +7,6 @@ Exploratory Data Analysis (EDA):
 
 Overview of the dataset: Displays the number of images per class and summarizes image size distributions.
 Visualizations: Includes class distribution bar charts and sample images from each class for better understanding.
-Class Imbalance Analysis: Checks for class imbalances and proposes solutions such as data augmentation and resampling to address any detected imbalances.
 
 ## Feature Extraction:
 
