@@ -15,7 +15,7 @@ Provides visualizations of HOG features and color histograms, showcasing the eff
 
 ## Model Selection and Training:
 
-Implements models including Naive Bayes, Decision Tree, Random Forest, Perceptron, and XGBoost to classify the activities based on extracted features.
+Implements models including  Random Forest and XGBoost to classify the activities based on extracted features.
 Utilizes an 80:20 train-test split and evaluates models on accuracy.
 Conducts hyperparameter tuning for HOG feature extraction and compares model performances to identify the best approach.
 This repository includes code, visualizations, and analysis results. It provides insights into human activity recognition through image classification and a comparative study of traditional and ensemble classifiers.
