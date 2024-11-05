@@ -20,7 +20,7 @@ Utilizes an 80:20 train-test split and evaluates models on accuracy.
 Conducts hyperparameter tuning for HOG feature extraction and compares model performances to identify the best approach.
 This repository includes code, visualizations, and analysis results. It provides insights into human activity recognition through image classification and a comparative study of traditional and ensemble classifiers.
 
-Dataset Google drive link- https://drive.google.com/drive/folders/1h1fM4lD-n8-MgJDbLymt4_4lxO7y3Yrf?usp=drive_link
+Dataset Google drive link- [link](https://drive.google.com/drive/u/0/folders/1FE-w4FWeQ6rtcRG7Ndmgyr1BKQVq1ut_)
 
 
 
